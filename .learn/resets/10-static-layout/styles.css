@@ -1,21 +1,5 @@
-.wrapper {
-	width: 600px;
-	margin: 0 auto;
-}
+/* your code here */
 
-nav {
-	width: 200px;
-}
-
-section {
-	width: 390px;
-	margin-left: 10px;
-}
-
-nav,
-section {
-	float: left;
-}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/

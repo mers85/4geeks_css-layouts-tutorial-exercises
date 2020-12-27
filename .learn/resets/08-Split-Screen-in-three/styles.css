@@ -1,22 +1,12 @@
 body {
 	margin: 0;
 }
-#main {
-	display: flex;
-}
-#main div {
-	-ms-flex: 1; /* IE 10 */
-	flex: 1;
-}
 #sectionA {
 	background: blue;
-	width: 33%;
 }
 #sectionB {
 	background: red;
-	width: 33%;
 }
 #sectionC {
 	background: green;
-	width: 33%;
 }

@@ -1,1 +1,15 @@
-/* your code here */
+h2#myFirstH2 {
+	visibility: hidden;
+}
+
+h2#mySecondH2 {
+	display: none;
+}
+
+ul li {
+	display: inline;
+}
+
+p strong {
+	display: block;
+}
